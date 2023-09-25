@@ -4,6 +4,7 @@
         <HelloWorld msg="Welcome to Your Vue.js App" />
         <h1>你好!</h1>
         <h1>准备测试!</h1>
+        <h1>直接push即可完成构建!</h1>
     </div>
 </template>
 
