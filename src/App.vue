@@ -2,7 +2,7 @@
     <div id="app">
         <img alt="Vue logo" src="./assets/logo.png" />
         <HelloWorld msg="Welcome to Your Vue.js App" />
-        <HelloWorld msg="成功测试部署构建" />
+        <h1>你好!</h1>
     </div>
 </template>
 
